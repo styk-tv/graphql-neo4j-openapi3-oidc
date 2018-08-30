@@ -9,5 +9,6 @@ Query Neo4J with GraphQL through Swagger-built OpenAPIv3 PetStore example with m
 6. Setup Keycloak our API groups and protect OpenApi OIDC rest/graphql methods with access control based on OIDC JWT token group membership.
 7. Kubernetes neo4j stable chart allows for automatic plugin installation: https://github.com/helm/charts/blob/master/stable/neo4j/values.yaml#L71-L82
 8. Protecting endpoints based on decorators https://flask-jwt-extended.readthedocs.io/en/latest/optional_endpoints.html
+9. Flask Graphene Neo4j: https://github.com/elementsinteractive/flask-graphql-neo4j
 
 I will expand this over next few days. Especially in the context of Kubernetes 
