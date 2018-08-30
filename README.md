@@ -10,5 +10,6 @@ Query Neo4J with GraphQL through Swagger-built OpenAPIv3 PetStore example with m
 7. Kubernetes neo4j stable chart allows for automatic plugin installation: https://github.com/helm/charts/blob/master/stable/neo4j/values.yaml#L71-L82
 8. Protecting endpoints based on decorators https://flask-jwt-extended.readthedocs.io/en/latest/optional_endpoints.html
 9. Flask Graphene Neo4j: https://github.com/elementsinteractive/flask-graphql-neo4j
+10. Python OIDC Client: https://pyoidc.readthedocs.io/en/latest/examples/rp.html
 
 I will expand this over next few days. Especially in the context of Kubernetes 
