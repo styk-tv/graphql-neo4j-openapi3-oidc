@@ -11,5 +11,6 @@ Query Neo4J with GraphQL through Swagger-built OpenAPIv3 PetStore example with m
 8. Protecting endpoints based on decorators https://flask-jwt-extended.readthedocs.io/en/latest/optional_endpoints.html
 9. Flask Graphene Neo4j: https://github.com/elementsinteractive/flask-graphql-neo4j
 10. Python OIDC Client: https://pyoidc.readthedocs.io/en/latest/examples/rp.html
+11. Py2Neo4j v4 https://medium.com/neo4j/py2neo-v4-2bedc8afef2
 
 I will expand this over next few days. Especially in the context of Kubernetes 
